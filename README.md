@@ -1,5 +1,5 @@
 # PAN_OCR
-To understand the building process please go through [this](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba) article.
+To understand the building process please go through my blog [here.](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba)
 
 Run below command to install darknet.
 
