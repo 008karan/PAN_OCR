@@ -1,3 +1,5 @@
+![OCR](OCR.png?raw=true "Title")
+
 # PAN_OCR
 To understand the building process please go through my blog [here.](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba)
 
